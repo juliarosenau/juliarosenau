@@ -10,7 +10,6 @@
   <img align="left" alt="Java" width="75px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" style="padding-right:10px;" />
   <img align="left" alt="Visual Studio Code" width="120px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" style="padding-right:10px;"/>
    <img align="left" alt="Illustrator" width="110px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg" style="padding-right:10px;"/> 
-    <img align="left" alt="MySQL" width="80px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"  style="padding-right:10px;"/> 
      <img align="left" alt="Figma" width="80px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" style="padding-right:10px;"/> 
 
   <br />
