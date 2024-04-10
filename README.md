@@ -3,17 +3,13 @@
 </br>
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/julia-rosenau-9b2678214/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn--blue" />
+<img src="https://img.shields.io/badge/LinkedIn--purple" />
 </a>
 <a href="https://www.hackerrank.com/MuskanRani" target="_blank">
-<img src="https://img.shields.io/badge/Instagram--darkgreen" ;></img></a>
-</a> 
-<a href="https://twitter.com/_muskan_gupta_" target="_blank">
-<img src="https://img.shields.io/badge/Twitter--blue" />
-</a>
+<img src="https://img.shields.io/badge/Instagram--Purple" ;></img></a>
 </a> 
 <a href="https://leetcode.com/Muskan_Rani/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode--blue" />
+<img src="https://img.shields.io/badge/LeetCode--purple" />
 </a>
 
 <br/> 
