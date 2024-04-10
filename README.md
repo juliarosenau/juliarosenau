@@ -15,10 +15,17 @@
 <br/>
 
 
-<h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
-https://muskanrani.github.io/Portfolio/
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
+<h2>Languages</h2>
+<a> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" target="_blank" />
+  </a>
+  <a>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" target="_blank" />
+  </a>
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" target="_blank" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" target="_blank"  />
+
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
