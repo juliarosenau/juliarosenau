@@ -1,7 +1,10 @@
 
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/julia-rosenau-9b2678214/" target="_blank">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" />
+</a>
+<a href="https://www.instagram.com/juliarosenau?igsh=MXdpcDJvMmoxaTlvbQ%3D%3D&utm_source=qr">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" />
 </a>
 
 <br/> 
