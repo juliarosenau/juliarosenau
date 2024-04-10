@@ -5,14 +5,14 @@
   
   #### I'm Julia, 
   #### Languages and Tools:
-  <img align="left" alt="JavaScript" width="100px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" style="padding-right:10px;" />
-  <img align="left" alt="Css" width="100px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" style="padding-right:10px;" />
-  <img align="left" alt="Html" width="100px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" style="padding-right:10px;" />
-  <img align="left" alt="Java" width="70px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="100px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" style="padding-right:10px;"/>  
-   <img align="left" alt="Illustrator" width="100px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg" style="padding-right:10px;"/> 
-    <img align="left" alt="MySQL" width="80px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"  style="padding-right:10px;"/> 
-     <img align="left" alt="Figma" width="80px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" style="padding-right:10px;"/> 
+  <img align="left" alt="JavaScript" width="150px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Css" width="150px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Html" width="150px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Java" width="150px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Visual Studio Code" width="150px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" style="padding-right:10px;"/>  
+   <img align="left" alt="Illustrator" width="150px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg" style="padding-right:10px;"/> 
+    <img align="left" alt="MySQL" width="150px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"  style="padding-right:10px;"/> 
+     <img align="left" alt="Figma" width="150px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" style="padding-right:10px;"/> 
   
   <br />
   <br />
