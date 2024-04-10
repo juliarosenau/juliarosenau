@@ -27,7 +27,7 @@
                 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" width="110px" height="32" />
             </a>
        <a href="https://www.linkedin.com/in/julia-rosenau-9b2678214/" target="_blank" >
-                <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" width="110px" height="32" />
+                <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" width="103px" height="32" />
             </a>
 </details>
 
