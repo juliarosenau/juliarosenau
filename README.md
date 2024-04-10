@@ -6,7 +6,7 @@
   #### Languages and Tools:
   <img align="left" alt="JavaScript" width="90px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" style="padding-right:10px;" />
   <img align="left" alt="Css" width="80px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" style="padding-right:10px;" />
-  <img align="left" alt="Html" width="900px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Html" width="90px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" style="padding-right:10px;" />
   <img align="left" alt="Java" width="80px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" style="padding-right:10px;" />
   <img align="left" alt="Visual Studio Code" width="90px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" style="padding-right:10px;"/>
    <img align="left" alt="Illustrator" width="90px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg" style="padding-right:10px;"/> 
