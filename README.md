@@ -5,28 +5,28 @@
   
   #### I'm Julia, 
   #### Languages and Tools:
-  <img align="left" alt="JavaScript" width="26px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" style="padding-right:100px;" />
-  <img align="left" alt="Css" width="26px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" style="padding-right:10px;" />
-  <img align="left" alt="Html" width="26px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" style="padding-right:10px;" />
-  <img align="left" alt="Java" width="26px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" style="padding-right:10px;"/>  
+  <img align="left" alt="JavaScript" width="100px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Css" width="100px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Html" width="100px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Java" width="70px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Visual Studio Code" width="100px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" style="padding-right:10px;"/>  
+   <img align="left" alt="Illustrator" width="100px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg" style="padding-right:10px;"/> 
+    <img align="left" alt="MySQL" width="80px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"  style="padding-right:10px;"/> 
+     <img align="left" alt="Figma" width="80px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" style="padding-right:10px;"/> 
+  
   <br />
   <br />
 </details>
 
 
 <details>
-  <summary><b>📕 &nbsp; Recent Blog Posts</b></summary>
+  <summary><b>📕 &nbsp; My Socials </b></summary>
+  
+   <a href="https://github.com/juliarosenau" target="_blank" rel="noreferrer">
+                <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" width="80px" height="32" style="padding-right:10px; />
+            </a>
   <br/>
 
-<!-- BLOG-POST-LIST:START -->
-- [Making a simple trivia Game](https://dev.to/arndom/i-made-a-trivia-game-4oj2)
-- [Play a Game of Tetris generated from your GitHub](https://dev.to/arndom/play-a-game-of-tetris-generated-from-your-github-2mf4)
-- [Pic Placeholder: categorised image placeholders](https://dev.to/arndom/pic-placeholder-categorised-image-placeholders-8kj)
-- [Introducing Pic Placeholder](https://dev.to/arndom/introducing-pic-placeholder-4cn1)
-- [Artsy: Audio to Art](https://dev.to/arndom/artsy-audio-to-art-2pbp)
-<!-- BLOG-POST-LIST:END -->
-▶️ [more blog posts...](https://dev.to/arndom)
 </details>
 
 
