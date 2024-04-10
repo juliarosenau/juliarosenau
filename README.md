@@ -8,14 +8,11 @@
 <a href="https://www.hackerrank.com/MuskanRani" target="_blank">
 <img src="https://img.shields.io/badge/Instagram--Purple" ;></img></a>
 </a> 
-<a href="https://leetcode.com/Muskan_Rani/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode--purple" />
-</a>
 
 <br/> 
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/juliarosenau/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarosenau&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
 <br/>
 
