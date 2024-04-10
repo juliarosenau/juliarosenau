@@ -1,33 +1,41 @@
+### Hey 👋
 
-<h2> Connect with me on 👇</h2>
-<a href="https://www.linkedin.com/in/julia-rosenau-9b2678214/" target="_blank">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" />
-</a>
-<a href="https://www.instagram.com/juliarosenau?igsh=MXdpcDJvMmoxaTlvbQ%3D%3D&utm_source=qr">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" />
-</a>
-
-<br/> 
-
-<h2> Github Stats </h2> 
-<a href="https://github.com/juliarosenau/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarosenau&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=juliarosenau&theme=tokyonight" alt="juliarosenau" />
-<br/>
-
-
-<h2>Languages</h2>
-<a href="https://www.instagram.com/juliarosenau?igsh=MXdpcDJvMmoxaTlvbQ%3D%3D&utm_source=qr">
-<img src= <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"/>
-</a>
-  <a>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" target="_blank" />
-  </a>
-
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" target="_blank" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" target="_blank"  />
+<details>
+  <summary><b>📒 &nbsp; Basic Info</b></summary>  
+  
+  #### I'm Julia, 
+  #### Languages and Tools:
+  <img align="left" alt="JavaScript" width="26px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" style="padding-right:100px;" />
+  <img align="left" alt="Css" width="26px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Html" width="26px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Java" width="26px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" style="padding-right:10px;"/>  
+  <br />
+  <br />
+</details>
 
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
-</p>
+<details>
+  <summary><b>📕 &nbsp; Recent Blog Posts</b></summary>
+  <br/>
+
+<!-- BLOG-POST-LIST:START -->
+- [Making a simple trivia Game](https://dev.to/arndom/i-made-a-trivia-game-4oj2)
+- [Play a Game of Tetris generated from your GitHub](https://dev.to/arndom/play-a-game-of-tetris-generated-from-your-github-2mf4)
+- [Pic Placeholder: categorised image placeholders](https://dev.to/arndom/pic-placeholder-categorised-image-placeholders-8kj)
+- [Introducing Pic Placeholder](https://dev.to/arndom/introducing-pic-placeholder-4cn1)
+- [Artsy: Audio to Art](https://dev.to/arndom/artsy-audio-to-art-2pbp)
+<!-- BLOG-POST-LIST:END -->
+▶️ [more blog posts...](https://dev.to/arndom)
+</details>
+
+
+<details>
+  <summary><b>📊 &nbsp; My Github Stats</b></summary>
+  <br/>
+
+[![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</details>
