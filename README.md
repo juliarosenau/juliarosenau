@@ -16,9 +16,9 @@
 
 
 <h2>Languages</h2>
-<a> 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" target="_blank" />
-  </a>
+<a href="https://www.instagram.com/juliarosenau?igsh=MXdpcDJvMmoxaTlvbQ%3D%3D&utm_source=qr">
+<img src= <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"/>
+</a>
   <a>
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" target="_blank" />
   </a>
